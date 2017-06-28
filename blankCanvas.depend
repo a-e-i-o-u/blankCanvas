@@ -1,0 +1,154 @@
+# depslib dependency file v1.0
+1498676136 source:c:\users\aeiou\documents\c++ projects\blankcanvas\application.cpp
+	"Application.h"
+	"Entities/Entity.h"
+	"Entities/Player.h"
+	"Entities/Wall.h"
+
+1498676129 c:\users\aeiou\documents\c++ projects\blankcanvas\application.h
+	<new>
+	<string>
+	<stdio.h>
+	<iostream>
+	<SFML/Graphics.hpp>
+	"Camera.h"
+	"Input.h"
+	"Level.h"
+	"Time.h"
+	"ResourceManagers/TextureManager.h"
+
+1498657970 c:\users\aeiou\documents\c++ projects\blankcanvas\level.h
+	<SFML/Graphics.hpp>
+	<new>
+	"Time.h"
+	"Input.h"
+	"Physics.h"
+	"Entities/Entity.h"
+
+1498337342 source:c:\users\aeiou\documents\c++ projects\blankcanvas\entity.cpp
+	"Entity.h"
+	"Level.h"
+
+1498248723 c:\users\aeiou\documents\c++ projects\blankcanvas\entity.h
+	<SFML/Graphics.hpp>
+	<string>
+	"Time.h"
+	"Physics.h"
+
+1498669118 source:c:\users\aeiou\documents\c++ projects\blankcanvas\level.cpp
+	"Level.h"
+
+1498653409 source:c:\users\aeiou\documents\c++ projects\blankcanvas\main.cpp
+	"Application.h"
+
+1498263790 c:\users\aeiou\documents\c++ projects\blankcanvas\time.h
+
+1498245794 source:c:\users\aeiou\documents\c++ projects\blankcanvas\player.cpp
+	"Player.h"
+
+1498246637 c:\users\aeiou\documents\c++ projects\blankcanvas\player.h
+	<SFML/Graphics.hpp>
+	"Entity.h"
+	"Time.h"
+
+1498263736 source:c:\users\aeiou\documents\c++ projects\blankcanvas\time.cpp
+	"Time.h"
+
+1498226142 c:\users\aeiou\documents\c++ projects\blankcanvas\wall.h
+	<SFML/Graphics.hpp>
+	"Entity.h"
+
+1498221235 source:c:\users\aeiou\documents\c++ projects\blankcanvas\wall.cpp
+	"Wall.h"
+
+1498345892 c:\users\aeiou\documents\c++ projects\blankcanvas\physics.h
+	<SFML/Graphics.hpp>
+
+1498345894 source:c:\users\aeiou\documents\c++ projects\blankcanvas\physics.cpp
+	"Physics.h"
+	"Level.h"
+
+1498596875 source:c:\users\aeiou\documents\c++ projects\blankcanvas\camera.cpp
+	"Camera.h"
+
+1498596140 c:\users\aeiou\documents\c++ projects\blankcanvas\camera.h
+	<SFML/Graphics.hpp>
+
+1498657882 c:\users\aeiou\documents\c++ projects\blankcanvas\entities\entity.h
+	<SFML/Graphics.hpp>
+	<string>
+	"../Time.h"
+	"../Physics.h"
+
+1498606211 c:\users\aeiou\documents\c++ projects\blankcanvas\entities\player.h
+	<SFML/Graphics.hpp>
+	"Entity.h"
+	"Time.h"
+
+1498226142 c:\users\aeiou\documents\c++ projects\blankcanvas\entities\wall.h
+	<SFML/Graphics.hpp>
+	"Entity.h"
+
+1498657961 source:c:\users\aeiou\documents\c++ projects\blankcanvas\entities\entity.cpp
+	"Entity.h"
+	"../Level.h"
+
+1498669256 source:c:\users\aeiou\documents\c++ projects\blankcanvas\entities\player.cpp
+	"Player.h"
+
+1498221235 source:c:\users\aeiou\documents\c++ projects\blankcanvas\entities\wall.cpp
+	"Wall.h"
+
+1498343501 source:c:\users\aeiou\documents\c++ projects\blankcanvas\texturemanager.cpp
+	"TextureManager.h"
+
+1498345916 c:\users\aeiou\documents\c++ projects\blankcanvas\texturemanager.h
+	<map>
+	<string>
+	<SFML/Graphics.hpp>
+
+1498347090 source:c:\users\aeiou\documents\c++ projects\blankcanvas\resourcemanagers\audiomanager.cpp
+	"AudioManager.h"
+
+1498350889 c:\users\aeiou\documents\c++ projects\blankcanvas\resourcemanagers\audiomanager.h
+
+1498347009 source:c:\users\aeiou\documents\c++ projects\blankcanvas\resourcemanagers\fontmanager.cpp
+	"FontManager.h"
+
+1498350892 c:\users\aeiou\documents\c++ projects\blankcanvas\resourcemanagers\fontmanager.h
+
+1498675570 source:c:\users\aeiou\documents\c++ projects\blankcanvas\resourcemanagers\texturemanager.cpp
+	"TextureManager.h"
+
+1498675905 c:\users\aeiou\documents\c++ projects\blankcanvas\resourcemanagers\texturemanager.h
+	<map>
+	<string>
+	<iostream>
+	<SFML/Graphics.hpp>
+
+1498397250 c:\users\aeiou\documents\c++ projects\blankcanvas\resourcemanagers\resourcemanager.h
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<map>
+	<string>
+
+1498576820 source:c:\users\aeiou\documents\c++ projects\blankcanvas\resourcemanagers\imagemanager.cpp
+	"ImageManager.h"
+
+1498670646 c:\users\aeiou\documents\c++ projects\blankcanvas\resourcemanagers\imagemanager.h
+	<map>
+	<string>
+	<iostream>
+	<SFML/Graphics.hpp>
+
+1498477344 source:c:\users\aeiou\documents\c++ projects\blankcanvas\resources.cpp
+	"Resources.h"
+
+1498478638 c:\users\aeiou\documents\c++ projects\blankcanvas\resources.h
+
+1498604207 source:c:\users\aeiou\documents\c++ projects\blankcanvas\input.cpp
+	"Input.h"
+
+1498604202 c:\users\aeiou\documents\c++ projects\blankcanvas\input.h
+	<SFML/System/Vector2.hpp>
+
